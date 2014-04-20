@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVDebug.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/CDVWhitelist.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVCommandQueue.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053478EDD0000000000000198
+t1397198557
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531FE70000000000000003B4
+t1394599680
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FE705000000000000019E
+t1394599685
+s414
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDV.h
+c000000005352CA9F0000000000000516
+t1397934751
+s1302
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c000000005352CA9F0000000000000CFB
+t1397934751
+s3323
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c000000005352CA9F00000000000008BA
+t1397934751
+s2234
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c000000005352CA9F00000000000004E2
+t1397934751
+s1250
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c000000005352CA9F000000000000183A
+t1397934751
+s6202
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c000000005352CA9F0000000000000503
+t1397934751
+s1283
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c000000005352CA9F0000000000001ED0
+t1397934751
+s7888
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c000000005352CA9F00000000000004CB
+t1397934751
+s1227
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c000000005352CA9F0000000000000EBF
+t1397934751
+s3775
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c000000005352CA9F0000000000000401
+t1397934751
+s1025
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c000000005352CA9F00000000000007E6
+t1397934751
+s2022
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c000000005352CA9F0000000000000DDE
+t1397934751
+s3550
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c000000005352CA9F00000000000003DA
+t1397934751
+s986
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c000000005352CA9F00000000000009A1
+t1397934751
+s2465
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c000000005352CA9F00000000000006CF
+t1397934751
+s1743
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c000000005352CA9F0000000000004C7E
+t1397934751
+s19582
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c000000005352CA9F0000000000000892
+t1397934751
+s2194
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c000000005352CA9F00000000000016AE
+t1397934751
+s5806
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c000000005352CA9F0000000000000C13
+t1397934751
+s3091
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c000000005352CA9F0000000000001B29
+t1397934751
+s6953
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c000000005352CA9F0000000000000408
+t1397934751
+s1032
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.h
+c000000005352CA9F00000000000003E6
+t1397934751
+s998
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.m
+c000000005352CA9F00000000000006BD
+t1397934751
+s1725
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c000000005352CA9F000000000000038D
+t1397934751
+s909
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c000000005352CA9F0000000000000AA2
+t1397934751
+s2722
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c000000005352CA9F000000000000041C
+t1397934751
+s1052
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c000000005352CA9F000000000000259E
+t1397934751
+s9630
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c000000005352CA9F0000000000000421
+t1397934751
+s1057
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c000000005352CA9F0000000000001361
+t1397934751
+s4961
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c000000005352CA9F0000000000000ACC
+t1397934751
+s2764
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c000000005352CA9F0000000000008FD2
+t1397934751
+s36818
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c000000005352CA9F00000000000005A2
+t1397934751
+s1442
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c000000005352CA9F0000000000003795
+t1397934751
+s14229
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c000000005352CA9F00000000000004B4
+t1397934751
+s1204
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c000000005352CA9F0000000000002814
+t1397934751
+s10260
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c000000005352CA9F0000000000000392
+t1397934751
+s914
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c000000005352CA9F00000000000004D8
+t1397934751
+s1240
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c000000005352CA9F000000000000037D
+t1397934751
+s893
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c000000005352CA9F00000000000022CC
+t1397934751
+s8908
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c000000005352CA9F00000000000005DA
+t1397934751
+s1498
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c000000005352CA9F0000000000001059
+t1397934751
+s4185
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c000000005352CA9F00000000000003A0
+t1397934751
+s928
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c000000005352CA9F0000000000000584
+t1397934751
+s1412
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c000000005352CA9F0000000000000476
+t1397934751
+s1142
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c000000005352CA9F0000000000000620
+t1397934751
+s1568
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c000000005352CA9F0000000000000346
+t1397934751
+s838
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1397935264
+s64904
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1397935264
+s61396
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1397935264
+s27456
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1397935263
+s18248
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1397935264
+s10568
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1397935264
+s106340
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1397935263
+s57112
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1397935263
+s36632
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1397935264
+s9040
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1397935264
+s22600
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1397935263
+s68880
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1397935264
+s50760
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1397935264
+s162952
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1397935264
+s67900
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1397935263
+s42396
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c000000005352CC9F0000000000000CF3
+t1397935263
+s3315
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1397935264
+s7212
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1397935263
+s10908
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1397935263
+s17328
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1397935263
+s6772
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1397935264
+s9196
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a
+t2
+s0
+
+N/var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch.pch
+t1397935263
+s3241812
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies03cf2d1e0403b941^fb23381f0403b941^---0#1#1#--18"Check dependencies36"AABB9054-4726-4148-B893-B063A32F3CFF-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628064.019663
+e419628064.221314
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m232"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf32005200403b941^bda938200403b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3824"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"15F287DD-2F4F-481E-B32B-E2FA467A899A-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628064.009037
+e419628064.181710
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfd6a02200403b941^8c842e200403b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3782"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"AE0BB146-646E-4945-B013-8BB787684794-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628064.135760
+e419628064.168759
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler80d822200403b941^50342b200403b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3782"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"A45D2A6C-6C94-4A6E-A160-C3D2381B72AA-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.705990
+e419628063.738476
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m228"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler20d5b41f0403b941^800cbd1f0403b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3812"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"4CFC5179-3846-4D30-98E9-7F2A77CF96F5-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628064.168994
+e419628064.194461
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.m202"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8e582b200403b941^c9c831200403b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3734"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"B1D4CE8D-DAB2-4506-8007-1DB2D044F92C-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.809645
+e419628064.019343
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1c5fcf1f0403b941^baf304200403b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3782"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"8675A068-29BE-43B5-9E5F-91119B77AA5B-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.738820
+e419628063.979754
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5644bd1f0403b941^d5d0fa1f0403b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3746"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"E8D2E319-F0D9-42DC-9113-4C7DE216D93A-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.706593
+e419628063.756415
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6407b51f0403b941^7ba4c11f0403b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3782"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"BCB1EA69-CD28-462F-B8E4-3BF1CB86C97A-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628064.221617
+e419628064.258113
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4dda38200403b941^f51342200403b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3746"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"1B47CA12-2BBB-41EC-AC25-45870B72834D-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628064.201502
+e419628064.241134
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.m204"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0ebf33200403b941^49bb3d200403b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3740"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"55A77C7C-F5AF-4FF3-9193-FD9322FBDC68-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.756805
+e419628063.981229
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m216"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler12dbc11f0403b941^7b32fb1f0403b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3776"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"1B1F062B-7BFF-4578-A64C-CBBF99FAF6F9-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628064.182027
+e419628064.321860
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m220"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere5b92e200403b941^cb6652200403b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3788"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"1A8B78DE-0A22-4649-9F69-C8727E67CC09-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.766864
+e419628064.201153
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.m222"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercd73c41f0403b941^fe8033200403b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3794"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"3DD68147-EFDF-4791-87FE-59A27EC32850-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628064.194672
+e419628064.348344
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m224"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2cf431200403b941^882d59200403b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3800"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"7B7769BF-CC39-418A-8EBC-6D7A8C62044D-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.742355
+e419628063.809350
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m212"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler302dbe1f0403b941^0532cf1f0403b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3764"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"45E74C33-31BE-4C74-8F43-022D20156191-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.981480
+e419628064.008764
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfa62fb1f0403b941^323c02200403b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3806"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"DAE5B4BE-3F2A-4A93-82E1-57C629F26124-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.706205
+e419628063.742074
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.m214"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc9e4b41f0403b941^a725be1f0403b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3770"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"E988AA7A-FAB0-4E86-B577-AAFAADBA7B07-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.705739
+e419628063.741992
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m234"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9cc0b41f0403b941^52f3bd1f0403b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3830"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"D7B4A3CA-11AF-4BF0-87EF-7BD1372B6BBA-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.742243
+e419628063.766620
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m246"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraa2cbe1f0403b941^8941c41f0403b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3866"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"EC823AA1-B8E3-41A9-B4D0-AA4377B3CA46-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.980102
+e419628064.135514
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1408fb1f0403b941^70b122200403b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3806"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"4EDCAD85-204E-4219-9B74-073F861908AA-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDV.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDV.h
+s419628063.238065
+e419628063.240196
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDV.h129"[1mCpHeader[0m Classes/CDV.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDV.h[0mdf153d1f0403b941^b79a3d1f0403b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDV.h00343c35deffdf42^688"[1mCpHeader[0m Classes/CDV.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDV.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDV.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"CBFA3812-5612-4BB0-A883-0716FF988EE5-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVAvailability.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s419628063.240381
+e419628063.243550
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h153"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0mf0a43d1f0403b941^8e593e1f0403b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h00343c35deffdf42^724"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"57148482-500F-4697-89F5-5FC4D57ADCE3-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s419628063.237891
+e419628063.240511
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h159"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m01fb3c1f0403b941^93a63d1f0403b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h00343c35deffdf42^733"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"7879A74B-DB23-410F-B0A9-09D7011D1729-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s419628063.243151
+e419628063.245460
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h167"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m97573e1f0403b941^01da3e1f0403b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h00343c35deffdf42^745"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"1A6710F0-6CCA-470A-BC00-13ACECDEFBCD-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVCommandQueue.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s419628063.243179
+e419628063.245607
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h153"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m64573e1f0403b941^b5fa3e1f0403b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h00343c35deffdf42^724"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"33DDEBBD-86C9-4C40-BC7D-8F9AD28F4B8F-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVConfigParser.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s419628063.245733
+e419628063.247870
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h153"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m93fe3e1f0403b941^397b3f1f0403b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h00343c35deffdf42^724"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"1440C31C-E53C-490B-A1BB-3A5DE8F5D5EF-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVDebug.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s419628063.235069
+e419628063.237148
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h139"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m0f463c1f0403b941^2cb73c1f0403b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h00343c35deffdf42^703"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"57D3ED92-8CC4-44E7-90DB-1D025B020B5F-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s419628063.227960
+e419628063.234657
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h163"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m1c443b1f0403b941^971f3c1f0403b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h00343c35deffdf42^739"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"2791F207-1BCC-40D0-B6AC-DDA5A3970F92-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVJSON.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s419628063.245757
+e419628063.247767
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h137"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0ma8013f1f0403b941^506e3f1f0403b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h00343c35deffdf42^700"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"CF14B664-7775-4491-A8C0-F76F2600FA67-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVLocalStorage.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s419628063.240481
+e419628063.242932
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h153"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m5caf3d1f0403b941^ee3f3e1f0403b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h00343c35deffdf42^724"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"2E02FFDB-8552-49E7-8262-7FF1AB4E56C8-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVPlugin.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s419628063.235000
+e419628063.237663
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h141"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m39443c1f0403b941^27db3c1f0403b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h00343c35deffdf42^706"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"36FFC63D-14DA-4402-AA26-BA8E498349E2-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVPluginResult.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s419628063.228251
+e419628063.235117
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h153"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m24423b1f0403b941^05313c1f0403b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h00343c35deffdf42^724"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"155EA4FC-82CB-4688-A099-08F2F4D3701C-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s419628063.243730
+e419628063.246028
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h179"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m02813e1f0403b941^bf0b3f1f0403b941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h00343c35deffdf42^763"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"CF71B05D-46CF-4985-9306-2172A280D01C-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVShared.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s419628063.243164
+e419628063.245410
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVShared.h141"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m1d583e1f0403b941^a2d43e1f0403b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVShared.h00343c35deffdf42^706"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"26799044-06E5-4274-8CE1-97DA90F2D9BF-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVTimer.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s419628063.248050
+e419628063.249851
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h139"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m899b3f1f0403b941^38f73f1f0403b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h00343c35deffdf42^703"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"FDD1B11B-E0A8-41D9-8C75-5C7F8CE0AE9A-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVURLProtocol.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s419628063.237443
+e419628063.240187
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h151"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m03ef3c1f0403b941^357e3d1f0403b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h00343c35deffdf42^721"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"F6DC28D7-A7A0-469B-93A1-423FCFEBF4E5-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s419628063.246194
+e419628063.248215
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h155"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0mdf173f1f0403b941^2c9d3f1f0403b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h00343c35deffdf42^727"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"76EF7ACE-FA84-4DCF-A2D9-76F6DD87CB90-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVViewController.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s419628063.237586
+e419628063.240574
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h157"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m6d013d1f0403b941^3dba3d1f0403b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h00343c35deffdf42^730"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"E39ECFF2-7C53-4DDF-838D-EE207D374A41-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s419628063.245772
+e419628063.247971
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h159"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m71023f1f0403b941^31943f1f0403b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h00343c35deffdf42^733"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"2F9D2D54-09FF-478B-9D78-130E3CF91181-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/CDVWhitelist.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s419628063.235327
+e419628063.237780
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h147"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m7a543c1f0403b941^c5003d1f0403b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h00343c35deffdf42^715"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"2A7AEC36-B094-447A-B7E5-380706F68C9E-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s419628063.240783
+e419628063.242932
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h161"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m3bc23d1f0403b941^15373e1f0403b941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h00343c35deffdf42^736"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"BF38385A-A69A-4597-B840-116DD67085FD-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/NSData+Base64.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s419628063.228127
+e419628063.234558
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h149"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0me9433b1f0403b941^cc0b3c1f0403b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h00343c35deffdf42^718"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"E3633C41-2171-4CA2-B3A1-174FE46B257B-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s419628063.227891
+e419628063.234592
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h169"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0md1413b1f0403b941^2f143c1f0403b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h00343c35deffdf42^748"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"01DF57EE-029E-4DBD-BBB8-C49431A297FA-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s419628063.235063
+e419628063.237374
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h181"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0mc3473c1f0403b941^fdc13c1f0403b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h00343c35deffdf42^766"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"3B751A79-7135-4DEA-8711-6704A14EAED7-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s419628063.240735
+e419628063.242903
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h161"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m80b63d1f0403b941^a9303e1f0403b941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h00343c35deffdf42^736"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova36"B6D1A2EF-E539-4DE4-85CC-E1D2797D4E1E-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CLibtool /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a normal i386
+s419628064.349719
+e419628064.474010
+r1
+xLibtool
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"[1mLibtool[0m /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a normal i386109"[1mLibtool[0m /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a normal i3862d9759200403b941^6c5a79200403b941^---0#0#1#--1019"[1mLibtool[0m /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -filelist /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a36"C658EB2C-4FC4-4A2C-A08E-5FE0F6ACD4D6-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+
+CProcessPCH /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419628063.250541
+e419628063.705086
+r1
+xProcessPCH
+x/var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch299"[1mProcessPCH[0m /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera96c401f0403b941^a680b41f0403b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3744"[1mProcessPCH[0m /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch.d -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-apribuvqwvejgifbxpdnbgddvhya/CordovaLib_Prefix.pch.pch36"541E03DE-F54F-46E8-B116-D52FB3F28CB7-
+b4A31D3F1-FE1F-4995-ABED-CE596107929A
+

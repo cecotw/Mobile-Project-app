@@ -1,0 +1,816 @@
+TTimsApp
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Info.plist /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Script-304B58A110DAC018002A0835.sh
+cCpResource TimsApp/Resources/icons/icon-76.png build/emulator/TimsApp.app/icon-76.png
+cCpResource TimsApp/Resources/icons/icon-40@2x.png build/emulator/TimsApp.app/icon-40@2x.png
+cCpResource TimsApp/Resources/icons/icon-72.png build/emulator/TimsApp.app/icon-72.png
+cCpResource TimsApp/Resources/icons/icon.png build/emulator/TimsApp.app/icon.png
+cCpResource TimsApp/Resources/icons/icon@2x.png build/emulator/TimsApp.app/icon@2x.png
+cCopyStringsFile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/en.lproj/Localizable.strings TimsApp/Resources/en.lproj/Localizable.strings
+cCpResource TimsApp/Resources/icons/icon-50.png build/emulator/TimsApp.app/icon-50.png
+cCompileXIB /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.xib
+cCpResource TimsApp/Resources/icons/icon-60@2x.png build/emulator/TimsApp.app/icon-60@2x.png
+cCopyStringsFile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/de.lproj/Localizable.strings TimsApp/Resources/de.lproj/Localizable.strings
+cCpResource TimsApp/Resources/icons/icon-small.png build/emulator/TimsApp.app/icon-small.png
+cCpResource TimsApp/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/TimsApp.app/Default-Landscape@2x~ipad.png
+cCpResource TimsApp/Resources/splash/Default-Landscape~ipad.png build/emulator/TimsApp.app/Default-Landscape~ipad.png
+cCpResource TimsApp/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/TimsApp.app/Default-Portrait@2x~ipad.png
+cCpResource TimsApp/Resources/icons/icon-small@2x.png build/emulator/TimsApp.app/icon-small@2x.png
+cCpResource TimsApp/Resources/splash/Default-Portrait~ipad.png build/emulator/TimsApp.app/Default-Portrait~ipad.png
+cCpResource TimsApp/Resources/icons/icon-40.png build/emulator/TimsApp.app/icon-40.png
+cCpResource TimsApp/Resources/splash/Default@2x~iphone.png build/emulator/TimsApp.app/Default@2x~iphone.png
+cCpResource TimsApp/Resources/icons/icon-60.png build/emulator/TimsApp.app/icon-60.png
+cCpResource TimsApp/Resources/splash/Default~iphone.png build/emulator/TimsApp.app/Default~iphone.png
+cCpResource TimsApp/Resources/splash/Default-568h@2x~iphone.png build/emulator/TimsApp.app/Default-568h@2x~iphone.png
+cCpResource TimsApp/Resources/icons/icon-50@2x.png build/emulator/TimsApp.app/icon-50@2x.png
+cCpResource TimsApp/Resources/icons/icon-76@2x.png build/emulator/TimsApp.app/icon-76@2x.png
+cCpResource TimsApp/Resources/icons/icon-72@2x.png build/emulator/TimsApp.app/icon-72@2x.png
+cProcessPCH /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch.pch TimsApp/TimsApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/main.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/AppDelegate.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/MainViewController.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/TimsApp normal i386
+cGenerateDSYMFile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app.dSYM /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/TimsApp
+cTouch /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053478EDD0000000000000198
+t1397198557
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531FE70000000000000003B4
+t1394599680
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FE705000000000000019E
+t1394599685
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000531FE7050000000000059340
+t1394599685
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053478EC10000000000446820
+t1397198529
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531FE70600000000000F1A80
+t1394599686
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000531FE70700000000001BE790
+t1394599687
+s1828752
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/AppDelegate.m
+c000000005352CA9E00000000000013AB
+t1397934750
+s5035
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.m
+c000000005352CA9E000000000000126B
+t1397934750
+s4715
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.xib
+c000000005352CA9E0000000000001759
+t1397934750
+s5977
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/de.lproj/Localizable.strings
+c000000005352CA9E00000000000004C0
+t1397934750
+s1216
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/en.lproj/Localizable.strings
+c000000005352CA9E00000000000004AB
+t1397934750
+s1195
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-40.png
+c000000005352CA9E0000000000000FF2
+t1397934750
+s4082
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-40@2x.png
+c000000005352CA9E0000000000001CF3
+t1397934750
+s7411
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-50.png
+c000000005352CA9E000000000000130A
+t1397934750
+s4874
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-50@2x.png
+c000000005352CA9E000000000000258B
+t1397934750
+s9611
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-60.png
+c000000005352CA9E00000000000016B3
+t1397934750
+s5811
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-60@2x.png
+c000000005352CA9E0000000000002E94
+t1397934750
+s11924
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-72.png
+c000000005352CA9E0000000000001350
+t1397934750
+s4944
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-72@2x.png
+c000000005352CA9E0000000000002DBA
+t1397934750
+s11706
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-76.png
+c000000005352CA9E0000000000001B71
+t1397934750
+s7025
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-76@2x.png
+c000000005352CA9E0000000000003B9E
+t1397934750
+s15262
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-small.png
+c000000005352CA9E0000000000000CDE
+t1397934750
+s3294
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-small@2x.png
+c000000005352CA9E00000000000015E8
+t1397934750
+s5608
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon.png
+c000000005352CA9E0000000000000F3E
+t1397934750
+s3902
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon@2x.png
+c000000005352CA9E0000000000001EBD
+t1397934750
+s7869
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default-568h@2x~iphone.png
+c000000005352CA9E00000000000085B1
+t1397934750
+s34225
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default-Landscape@2x~ipad.png
+c000000005352CA9E0000000000033D0A
+t1397934750
+s212234
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default-Landscape~ipad.png
+c000000005352CA9E00000000000166A2
+t1397934750
+s91810
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005352CA9E0000000000033F7C
+t1397934750
+s212860
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default-Portrait~ipad.png
+c000000005352CA9E0000000000016641
+t1397934750
+s91713
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default@2x~iphone.png
+c000000005352CA9E0000000000007323
+t1397934750
+s29475
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default~iphone.png
+c000000005352CA9E000000000000289A
+t1397934750
+s10394
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Info.plist
+c00000000535312F20000000000000A13
+t1397953266
+s2579
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Prefix.pch
+c000000005352CA9F00000000000003C5
+t1397934751
+s965
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/main.m
+c000000005352CA9E000000000000045C
+t1397934750
+s1116
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/AppDelegate.o
+t1397953275
+s73972
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/MainViewController.o
+t1397953275
+s51552
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/TimsApp.LinkFileList
+c00000000535312F400000000000001B0
+t1397953268
+s432
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/main.o
+t1397953275
+s2972
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Script-304B58A110DAC018002A0835.sh
+c00000000535312F4000000000000002D
+t1397953268
+s45
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app
+t1397953275
+s1020
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app.dSYM
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default-568h@2x~iphone.png
+t1397953270
+s34225
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default-Landscape@2x~ipad.png
+t1397953270
+s212234
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default-Landscape~ipad.png
+t1397953270
+s91810
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default-Portrait@2x~ipad.png
+t1397953270
+s212860
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default-Portrait~ipad.png
+t1397953270
+s91713
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default@2x~iphone.png
+t1397953270
+s29475
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default~iphone.png
+t1397953270
+s10394
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Info.plist
+t1397953268
+s1281
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/MainViewController.nib
+t1397953274
+s836
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/PkgInfo
+t2
+s0
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/TimsApp
+t1397953275
+s272092
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/de.lproj/Localizable.strings
+t1397953270
+s280
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/en.lproj/Localizable.strings
+t1397953270
+s166
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-40.png
+t1397953270
+s4082
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-40@2x.png
+t1397953270
+s7411
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-50.png
+t1397953270
+s4874
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-50@2x.png
+t1397953270
+s9611
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-60.png
+t1397953270
+s5811
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-60@2x.png
+t1397953270
+s11924
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-72.png
+t1397953270
+s4944
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-72@2x.png
+t1397953270
+s11706
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-76.png
+t1397953270
+s7025
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-76@2x.png
+t1397953270
+s15262
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-small.png
+t1397953270
+s3294
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-small@2x.png
+t1397953270
+s5608
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon.png
+t1397953270
+s3902
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon@2x.png
+t1397953270
+s7869
+
+N/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a
+c000000005352CCA000000000000D3840
+t1397935264
+s866368
+
+N/var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch.pch
+t1397953275
+s5376508
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4e808d744a03b941^001cb7744a03b941^---0#1#1#--18"Check dependencies36"CABB7158-EE04-47DB-863D-29E89C0526A2-
+
+CCompileC build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/AppDelegate.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419646075.461519
+e419646075.533795
+r1
+xCompileC
+xbuild/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/AppDelegate.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/AppDelegate.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/AppDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/AppDelegate.m212"[1mCompileC[0m build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/AppDelegate.o [1mTimsApp/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3d45767b4a03b941^1ea7887b4a03b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/AppDelegate.m0000000000000000^3925"[1mCompileC[0m build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/AppDelegate.o [1mTimsApp/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/AppDelegate.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/AppDelegate.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/AppDelegate.o36"2EED08D0-DC95-4AC4-860E-480482D2A629-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCompileC build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/MainViewController.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419646075.461814
+e419646075.520637
+r1
+xCompileC
+xbuild/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/MainViewController.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.m
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.m226"[1mCompileC[0m build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/MainViewController.o [1mTimsApp/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera454767b4a03b941^cb48857b4a03b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.m0000000000000000^3967"[1mCompileC[0m build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/MainViewController.o [1mTimsApp/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/MainViewController.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/MainViewController.o36"B0DBE569-3450-420F-895D-C3D62E1180F7-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCompileC build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/main.o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419646075.461224
+e419646075.485416
+r1
+xCompileC
+xbuild/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/main.o
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/main.m190"[1mCompileC[0m build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/main.o [1mTimsApp/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2f31767b4a03b941^74467c7b4a03b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/main.m0000000000000000^3867"[1mCompileC[0m build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/main.o [1mTimsApp/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/main.dia -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/main.m -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/main.o36"A34B57D3-ED66-4496-ABC3-01EC73B288DA-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCompileXIB /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.xib
+s419646070.542234
+e419646074.806322
+r1
+xCompileXIB
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.xib
+o2014-04-19 18:21:14.313 Interface Builder Cocoa Touch Tool[58404:303] CFPreferences: user home directory at file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compiling /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.xib65"[1mCompileXIB[0m [1mTimsApp/Classes/MainViewController.xib[0m25e98a764a03b941^166dce7a4a03b941^-238"2014-04-19 18:21:14.313 Interface Builder Cocoa Touch Tool[58404:303] CFPreferences: user home directory at file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.xib0000000000000000^1004"[1mCompileXIB[0m [1mTimsApp/Classes/MainViewController.xib[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/MainViewController.nib /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Classes/MainViewController.xib36"A8B4E9BA-AED6-458E-BFD1-55C90F824A0A-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCopyStringsFile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/de.lproj/Localizable.strings TimsApp/Resources/de.lproj/Localizable.strings
+s419646070.544053
+e419646070.546679
+r1
+xCopyStringsFile
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/de.lproj/Localizable.strings
+xTimsApp/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy TimsApp/Resources/de.lproj/Localizable.strings126"[1mCopyStringsFile[0m build/emulator/TimsApp.app/de.lproj/Localizable.strings TimsApp/Resources/de.lproj/Localizable.strings5d6f8b764a03b941^6bf38b764a03b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/de.lproj/Localizable.strings0000000000000000^793"[1mCopyStringsFile[0m build/emulator/TimsApp.app/de.lproj/Localizable.strings TimsApp/Resources/de.lproj/Localizable.strings    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/de.lproj -- TimsApp/Resources/de.lproj/Localizable.strings36"504EC100-CF97-4A7F-8347-E86C2308FC46-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCopyStringsFile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/en.lproj/Localizable.strings TimsApp/Resources/en.lproj/Localizable.strings
+s419646070.541659
+e419646070.544183
+r1
+xCopyStringsFile
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/en.lproj/Localizable.strings
+xTimsApp/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy TimsApp/Resources/en.lproj/Localizable.strings126"[1mCopyStringsFile[0m build/emulator/TimsApp.app/en.lproj/Localizable.strings TimsApp/Resources/en.lproj/Localizable.strings63b88a764a03b941^99618b764a03b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/en.lproj/Localizable.strings0000000000000000^793"[1mCopyStringsFile[0m build/emulator/TimsApp.app/en.lproj/Localizable.strings TimsApp/Resources/en.lproj/Localizable.strings    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/en.lproj -- TimsApp/Resources/en.lproj/Localizable.strings36"86E41C6D-48D6-40A2-9292-AFFBAB291396-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-40.png build/emulator/TimsApp.app/icon-40.png
+s419646070.546842
+e419646070.548347
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-40.png
+xbuild/emulator/TimsApp.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/TimsApp.app/icon-40.png93"[1mCpResource[0m TimsApp/Resources/icons/icon-40.png build/emulator/TimsApp.app/icon-40.png410c8c764a03b941^2c628c764a03b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-40.png00343c35deffdf42^813"[1mCpResource[0m TimsApp/Resources/icons/icon-40.png build/emulator/TimsApp.app/icon-40.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-40.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"224B8A08-6610-4CC6-BE88-6A4AF0D77A57-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-40@2x.png build/emulator/TimsApp.app/icon-40@2x.png
+s419646070.540819
+e419646070.542927
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-40@2x.png
+xbuild/emulator/TimsApp.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/TimsApp.app/icon-40@2x.png99"[1mCpResource[0m TimsApp/Resources/icons/icon-40@2x.png build/emulator/TimsApp.app/icon-40@2x.png45818a764a03b941^bf0f8b764a03b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-40@2x.png00343c35deffdf42^822"[1mCpResource[0m TimsApp/Resources/icons/icon-40@2x.png build/emulator/TimsApp.app/icon-40@2x.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-40@2x.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"096821C8-FB57-4996-9E22-6F858F755EEB-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-50.png build/emulator/TimsApp.app/icon-50.png
+s419646070.542228
+e419646070.544217
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-50.png
+xbuild/emulator/TimsApp.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/TimsApp.app/icon-50.png93"[1mCpResource[0m TimsApp/Resources/icons/icon-50.png build/emulator/TimsApp.app/icon-50.png01de8a764a03b941^60768b764a03b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-50.png00343c35deffdf42^813"[1mCpResource[0m TimsApp/Resources/icons/icon-50.png build/emulator/TimsApp.app/icon-50.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-50.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"CD00A510-C408-43CD-8FEB-7E974286BA7D-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-50@2x.png build/emulator/TimsApp.app/icon-50@2x.png
+s419646070.549893
+e419646070.552012
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-50@2x.png
+xbuild/emulator/TimsApp.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/TimsApp.app/icon-50@2x.png99"[1mCpResource[0m TimsApp/Resources/icons/icon-50@2x.png build/emulator/TimsApp.app/icon-50@2x.pnge0d78c764a03b941^76508d764a03b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-50@2x.png00343c35deffdf42^822"[1mCpResource[0m TimsApp/Resources/icons/icon-50@2x.png build/emulator/TimsApp.app/icon-50@2x.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-50@2x.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"6FD3EE36-D463-4A82-9FCE-FB966B17C273-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-60.png build/emulator/TimsApp.app/icon-60.png
+s419646070.548357
+e419646070.550908
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-60.png
+xbuild/emulator/TimsApp.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/TimsApp.app/icon-60.png93"[1mCpResource[0m TimsApp/Resources/icons/icon-60.png build/emulator/TimsApp.app/icon-60.pngee7b8c764a03b941^92088d764a03b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-60.png00343c35deffdf42^813"[1mCpResource[0m TimsApp/Resources/icons/icon-60.png build/emulator/TimsApp.app/icon-60.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-60.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"5599501F-BFDC-40BF-9160-11D33FDC6697-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-60@2x.png build/emulator/TimsApp.app/icon-60@2x.png
+s419646070.543439
+e419646070.546345
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-60@2x.png
+xbuild/emulator/TimsApp.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/TimsApp.app/icon-60@2x.png99"[1mCpResource[0m TimsApp/Resources/icons/icon-60@2x.png build/emulator/TimsApp.app/icon-60@2x.pngc95a8b764a03b941^04e48b764a03b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-60@2x.png00343c35deffdf42^822"[1mCpResource[0m TimsApp/Resources/icons/icon-60@2x.png build/emulator/TimsApp.app/icon-60@2x.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-60@2x.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"973FE744-08E5-4877-AFC8-954C0EDEDF4E-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-72.png build/emulator/TimsApp.app/icon-72.png
+s419646070.541002
+e419646070.542979
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-72.png
+xbuild/emulator/TimsApp.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/TimsApp.app/icon-72.png93"[1mCpResource[0m TimsApp/Resources/icons/icon-72.png build/emulator/TimsApp.app/icon-72.pngf3938a764a03b941^43378b764a03b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-72.png00343c35deffdf42^813"[1mCpResource[0m TimsApp/Resources/icons/icon-72.png build/emulator/TimsApp.app/icon-72.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-72.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"E793466D-4A4E-4216-8855-1985ABD626F5-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-72@2x.png build/emulator/TimsApp.app/icon-72@2x.png
+s419646070.550577
+e419646070.552188
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-72@2x.png
+xbuild/emulator/TimsApp.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/TimsApp.app/icon-72@2x.png99"[1mCpResource[0m TimsApp/Resources/icons/icon-72@2x.png build/emulator/TimsApp.app/icon-72@2x.png2d088d764a03b941^965c8d764a03b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-72@2x.png00343c35deffdf42^822"[1mCpResource[0m TimsApp/Resources/icons/icon-72@2x.png build/emulator/TimsApp.app/icon-72@2x.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-72@2x.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"D0ED3322-19B4-4473-BB32-2D2A6227E339-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-76.png build/emulator/TimsApp.app/icon-76.png
+s419646070.540642
+e419646070.542882
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-76.png
+xbuild/emulator/TimsApp.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/TimsApp.app/icon-76.png93"[1mCpResource[0m TimsApp/Resources/icons/icon-76.png build/emulator/TimsApp.app/icon-76.pngb4778a764a03b941^26fc8a764a03b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-76.png00343c35deffdf42^813"[1mCpResource[0m TimsApp/Resources/icons/icon-76.png build/emulator/TimsApp.app/icon-76.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-76.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"F78CE543-AD85-4992-A610-C04925500F4F-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-76@2x.png build/emulator/TimsApp.app/icon-76@2x.png
+s419646070.550058
+e419646070.552376
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-76@2x.png
+xbuild/emulator/TimsApp.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/TimsApp.app/icon-76@2x.png99"[1mCpResource[0m TimsApp/Resources/icons/icon-76@2x.png build/emulator/TimsApp.app/icon-76@2x.pngc6e18c764a03b941^f9688d764a03b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-76@2x.png00343c35deffdf42^822"[1mCpResource[0m TimsApp/Resources/icons/icon-76@2x.png build/emulator/TimsApp.app/icon-76@2x.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-76@2x.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"367C9014-C32E-4093-9C77-BECE78C211CD-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-small.png build/emulator/TimsApp.app/icon-small.png
+s419646070.544509
+e419646070.546341
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-small.png
+xbuild/emulator/TimsApp.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/TimsApp.app/icon-small.png99"[1mCpResource[0m TimsApp/Resources/icons/icon-small.png build/emulator/TimsApp.app/icon-small.png1c7a8b764a03b941^51de8b764a03b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-small.png00343c35deffdf42^822"[1mCpResource[0m TimsApp/Resources/icons/icon-small.png build/emulator/TimsApp.app/icon-small.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-small.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"9934CD19-7F5F-4708-9573-8AD0D145DAA3-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon-small@2x.png build/emulator/TimsApp.app/icon-small@2x.png
+s419646070.546064
+e419646070.548168
+r1
+xCpResource
+xTimsApp/Resources/icons/icon-small@2x.png
+xbuild/emulator/TimsApp.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/TimsApp.app/icon-small@2x.png105"[1mCpResource[0m TimsApp/Resources/icons/icon-small@2x.png build/emulator/TimsApp.app/icon-small@2x.png54e58b764a03b941^54558c764a03b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon-small@2x.png00343c35deffdf42^831"[1mCpResource[0m TimsApp/Resources/icons/icon-small@2x.png build/emulator/TimsApp.app/icon-small@2x.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon-small@2x.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"1526197C-0741-4C81-AEA3-9EFF67FE0A45-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon.png build/emulator/TimsApp.app/icon.png
+s419646070.541200
+e419646070.543055
+r1
+xCpResource
+xTimsApp/Resources/icons/icon.png
+xbuild/emulator/TimsApp.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy build/emulator/TimsApp.app/icon.png87"[1mCpResource[0m TimsApp/Resources/icons/icon.png build/emulator/TimsApp.app/icon.png909e8a764a03b941^033e8b764a03b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon.png00343c35deffdf42^804"[1mCpResource[0m TimsApp/Resources/icons/icon.png build/emulator/TimsApp.app/icon.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"81278640-3B9E-41FB-818B-C8506FD227F6-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/icons/icon@2x.png build/emulator/TimsApp.app/icon@2x.png
+s419646070.541444
+e419646070.544119
+r1
+xCpResource
+xTimsApp/Resources/icons/icon@2x.png
+xbuild/emulator/TimsApp.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/TimsApp.app/icon@2x.png93"[1mCpResource[0m TimsApp/Resources/icons/icon@2x.png build/emulator/TimsApp.app/icon@2x.pngc9b08a764a03b941^215a8b764a03b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/icon@2x.png00343c35deffdf42^813"[1mCpResource[0m TimsApp/Resources/icons/icon@2x.png build/emulator/TimsApp.app/icon@2x.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/icons/icon@2x.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"F7094BA2-24E6-482E-ADF4-084B6ADA8BF8-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/splash/Default-568h@2x~iphone.png build/emulator/TimsApp.app/Default-568h@2x~iphone.png
+s419646070.548857
+e419646070.552191
+r1
+xCpResource
+xTimsApp/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/TimsApp.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/emulator/TimsApp.app/Default-568h@2x~iphone.png124"[1mCpResource[0m TimsApp/Resources/splash/Default-568h@2x~iphone.png build/emulator/TimsApp.app/Default-568h@2x~iphone.png6b998c764a03b941^28628d764a03b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default-568h@2x~iphone.png00343c35deffdf42^860"[1mCpResource[0m TimsApp/Resources/splash/Default-568h@2x~iphone.png build/emulator/TimsApp.app/Default-568h@2x~iphone.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default-568h@2x~iphone.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"5FF0ACCB-A614-438B-8C4F-F6D8A1D1726C-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/TimsApp.app/Default-Landscape@2x~ipad.png
+s419646070.544866
+e419646070.549732
+r1
+xCpResource
+xTimsApp/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/TimsApp.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/TimsApp.app/Default-Landscape@2x~ipad.png130"[1mCpResource[0m TimsApp/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/TimsApp.app/Default-Landscape@2x~ipad.pngee978b764a03b941^b2bb8c764a03b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default-Landscape@2x~ipad.png00343c35deffdf42^869"[1mCpResource[0m TimsApp/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/TimsApp.app/Default-Landscape@2x~ipad.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default-Landscape@2x~ipad.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"A37A94C2-3520-4AE0-9143-1EEF2DF07DA5-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/splash/Default-Landscape~ipad.png build/emulator/TimsApp.app/Default-Landscape~ipad.png
+s419646070.545115
+e419646070.548390
+r1
+xCpResource
+xTimsApp/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/TimsApp.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/emulator/TimsApp.app/Default-Landscape~ipad.png124"[1mCpResource[0m TimsApp/Resources/splash/Default-Landscape~ipad.png build/emulator/TimsApp.app/Default-Landscape~ipad.png359b8b764a03b941^ec688c764a03b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default-Landscape~ipad.png00343c35deffdf42^860"[1mCpResource[0m TimsApp/Resources/splash/Default-Landscape~ipad.png build/emulator/TimsApp.app/Default-Landscape~ipad.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default-Landscape~ipad.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"6496DAF4-D8A9-4EBD-BD2B-22758358D222-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/TimsApp.app/Default-Portrait@2x~ipad.png
+s419646070.545442
+e419646070.550540
+r1
+xCpResource
+xTimsApp/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/TimsApp.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/TimsApp.app/Default-Portrait@2x~ipad.png128"[1mCpResource[0m TimsApp/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/TimsApp.app/Default-Portrait@2x~ipad.pngadbd8b764a03b941^b7f08c764a03b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default-Portrait@2x~ipad.png00343c35deffdf42^866"[1mCpResource[0m TimsApp/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/TimsApp.app/Default-Portrait@2x~ipad.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default-Portrait@2x~ipad.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"4C0889E5-CE71-4D1D-B1A9-B59E626FEBCB-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/splash/Default-Portrait~ipad.png build/emulator/TimsApp.app/Default-Portrait~ipad.png
+s419646070.546530
+e419646070.550439
+r1
+xCpResource
+xTimsApp/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/TimsApp.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/emulator/TimsApp.app/Default-Portrait~ipad.png122"[1mCpResource[0m TimsApp/Resources/splash/Default-Portrait~ipad.png build/emulator/TimsApp.app/Default-Portrait~ipad.png9a078c764a03b941^d5e98c764a03b941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default-Portrait~ipad.png00343c35deffdf42^857"[1mCpResource[0m TimsApp/Resources/splash/Default-Portrait~ipad.png build/emulator/TimsApp.app/Default-Portrait~ipad.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default-Portrait~ipad.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"5D563288-8526-40B2-94D8-6DF370ACCC12-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/splash/Default@2x~iphone.png build/emulator/TimsApp.app/Default@2x~iphone.png
+s419646070.547130
+e419646070.549929
+r1
+xCpResource
+xTimsApp/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/TimsApp.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/TimsApp.app/Default@2x~iphone.png114"[1mCpResource[0m TimsApp/Resources/splash/Default@2x~iphone.png build/emulator/TimsApp.app/Default@2x~iphone.pngb3248c764a03b941^9bc88c764a03b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default@2x~iphone.png00343c35deffdf42^845"[1mCpResource[0m TimsApp/Resources/splash/Default@2x~iphone.png build/emulator/TimsApp.app/Default@2x~iphone.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default@2x~iphone.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"BF1DEFFC-6E86-4061-A345-B5156CD4C972-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CCpResource TimsApp/Resources/splash/Default~iphone.png build/emulator/TimsApp.app/Default~iphone.png
+s419646070.548618
+e419646070.550760
+r1
+xCpResource
+xTimsApp/Resources/splash/Default~iphone.png
+xbuild/emulator/TimsApp.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/emulator/TimsApp.app/Default~iphone.png108"[1mCpResource[0m TimsApp/Resources/splash/Default~iphone.png build/emulator/TimsApp.app/Default~iphone.pngf5858c764a03b941^cefe8c764a03b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Default~iphone.png00343c35deffdf42^836"[1mCpResource[0m TimsApp/Resources/splash/Default~iphone.png build/emulator/TimsApp.app/Default~iphone.png    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/Resources/splash/Default~iphone.png /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"AB399113-15C8-4AA0-98FF-B1000E5E1EAC-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CGenerateDSYMFile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app.dSYM /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/TimsApp
+s419646075.588275
+e419646075.674444
+r1
+xGenerateDSYMFile
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app.dSYM
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/TimsApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Generate /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app.dSYM99"[1mGenerateDSYMFile[0m [1mbuild/emulator/TimsApp.app.dSYM[0m build/emulator/TimsApp.app/TimsApp9ca7967b4a03b941^c1a8ac7b4a03b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app.dSYM00343c35deffdf42^814"[1mGenerateDSYMFile[0m [1mbuild/emulator/TimsApp.app.dSYM[0m build/emulator/TimsApp.app/TimsApp    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/TimsApp -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app.dSYM36"4D32CBFC-03AD-462A-8E22-154A525EB094-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CLd /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/TimsApp normal i386
+s419646075.534829
+e419646075.587504
+r1
+xLd
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/TimsApp
+xnormal
+xi386
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/TimsApp.LinkFileList
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/main.o
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/AppDelegate.o
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Link /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/TimsApp57"[1mLd[0m build/emulator/TimsApp.app/TimsApp normal i386fb03897b4a03b941^ed66967b4a03b941^---0#0#1#--1895"[1mLd[0m build/emulator/TimsApp.app/TimsApp normal i386    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -filelist /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/TimsApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Objects-normal/i386/TimsApp_dependency_info.dat -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/TimsApp36"3906EA5D-170A-487E-B0CB-3DFFB8797941-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CPhaseScriptExecution Copy\ www\ directory /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Script-304B58A110DAC018002A0835.sh
+s419646068.719256
+e419646070.540259
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m1.799s
+ouser	0m0.718s
+osys	0m1.045s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'140"[1mPhaseScriptExecution[0m Copy\ www\ directory build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Script-304B58A110DAC018002A0835.she675b8744a03b941^fd4f8a764a03b941^-42"real	0m1.799suser	0m0.718ssys	0m1.045s3(21%IDEActivityLogMessage2@14"real	0m1.799s-419646070#1#14#-0#-----2@14"user	0m0.718s-419646070#15#14#-0#-----2@13"sys	0m1.045s-419646070#29#13#-0#-----0#0#1#--362"[1mPhaseScriptExecution[0m Copy\ www\ directory build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Script-304B58A110DAC018002A0835.sh    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    /bin/sh -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/Script-304B58A110DAC018002A0835.sh36"8C3E70FC-B79D-4162-8956-BFA044BB480B-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CProcessInfoPlistFile /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Info.plist /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Info.plist
+s419646068.716085
+e419646068.718414
+r1
+xProcessInfoPlistFile
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Info.plist
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Process /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Info.plist101"[1mProcessInfoPlistFile[0m build/emulator/TimsApp.app/Info.plist [1mTimsApp/TimsApp-Info.plist[0m1668b7744a03b941^92eab7744a03b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Info.plist0000000000000000^906"[1mProcessInfoPlistFile[0m build/emulator/TimsApp.app/Info.plist [1mTimsApp/TimsApp-Info.plist[0m    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-infoPlistUtility /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Info.plist -genpkginfo /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app/Info.plist36"25D6A494-51F3-42ED-ABE4-39866A358238-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CProcessPCH /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch.pch TimsApp/TimsApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419646074.807112
+e419646075.460427
+r1
+xProcessPCH
+x/var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch.pch
+xTimsApp/TimsApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile TimsApp/TimsApp-Prefix.pch298"[1mProcessPCH[0m /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch.pch TimsApp/TimsApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera1b9ce7a4a03b941^37de757b4a03b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Prefix.pch0000000000000000^3944"[1mProcessPCH[0m /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch.pch TimsApp/TimsApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-generated-files.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-own-target-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-all-target-headers.hmap -iquote /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/TimsApp-project-headers.hmap -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/DerivedSources/i386 -I/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/TimsApp.build/Debug-iphonesimulator/TimsApp.build/DerivedSources -F/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator --serialize-diagnostics /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch.d -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/TimsApp/TimsApp-Prefix.pch -o /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TimsApp-Prefix-egbbhoqwaceqneclubpyqwirkhto/TimsApp-Prefix.pch.pch36"868F0E4E-8546-4482-80EE-2849633F9C76-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+
+CTouch /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app
+s419646075.675624
+e419646075.679835
+r1
+xTouch
+x/Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Touch /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app40"[1mTouch[0m build/emulator/TimsApp.app0003ad7b4a03b941^800bae7b4a03b941^---0#0#1#--580"[1mTouch[0m build/emulator/TimsApp.app    cd /Users/MacBookRetina/Mobile-Project-app/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /usr/bin/touch -c /Users/MacBookRetina/Mobile-Project-app/platforms/ios/build/emulator/TimsApp.app36"15058AC1-20A1-41D2-8199-DC46637A4930-
+b75FC5FEB-DA17-4B0E-93C3-3FE1514D4A41
+

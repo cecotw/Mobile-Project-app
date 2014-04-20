@@ -1,0 +1,127 @@
+2014-04-19 13:24:38.193 HelloWorld[29771:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 13:24:38.310 HelloWorld[29771:70b] Resetting plugins due to page load.
+2014-04-19 13:24:38.421 HelloWorld[29771:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/337F6BA8-FA10-4FCB-80C3-44A50FC9414A/HelloWorld.app/www/index.html
+2014-04-19 15:35:08.214 HelloWorld[31462:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 15:35:08.311 HelloWorld[31462:70b] Resetting plugins due to page load.
+2014-04-19 15:35:08.424 HelloWorld[31462:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 15:35:08.425 HelloWorld[31462:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 15:35:08.425 HelloWorld[31462:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 15:35:08.427 HelloWorld[31462:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 15:35:08.428 HelloWorld[31462:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 15:35:08.429 HelloWorld[31462:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 15:35:08.430 HelloWorld[31462:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 15:35:08.430 HelloWorld[31462:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 15:35:08.431 HelloWorld[31462:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 15:35:08.494 HelloWorld[31462:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/337F6BA8-FA10-4FCB-80C3-44A50FC9414A/HelloWorld.app/www/index.html
+2014-04-19 15:36:04.662 HelloWorld[32214:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 15:36:04.863 HelloWorld[32214:70b] Resetting plugins due to page load.
+2014-04-19 15:36:04.880 HelloWorld[32214:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 15:36:04.880 HelloWorld[32214:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 15:36:04.880 HelloWorld[32214:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 15:36:04.882 HelloWorld[32214:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 15:36:04.882 HelloWorld[32214:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 15:36:04.882 HelloWorld[32214:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 15:36:04.883 HelloWorld[32214:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 15:36:04.883 HelloWorld[32214:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 15:36:04.884 HelloWorld[32214:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 15:36:04.907 HelloWorld[32214:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/337F6BA8-FA10-4FCB-80C3-44A50FC9414A/HelloWorld.app/www/index.html
+2014-04-19 15:37:42.604 HelloWorld[32755:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 15:37:42.753 HelloWorld[32755:70b] Resetting plugins due to page load.
+2014-04-19 15:37:42.889 HelloWorld[32755:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 15:37:42.889 HelloWorld[32755:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 15:37:42.890 HelloWorld[32755:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 15:37:42.891 HelloWorld[32755:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 15:37:42.892 HelloWorld[32755:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 15:37:42.892 HelloWorld[32755:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 15:37:42.894 HelloWorld[32755:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 15:37:42.894 HelloWorld[32755:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 15:37:42.895 HelloWorld[32755:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 15:37:42.948 HelloWorld[32755:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/337F6BA8-FA10-4FCB-80C3-44A50FC9414A/HelloWorld.app/www/index.html
+2014-04-19 16:10:22.849 Tim's App[33328:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 16:10:22.858 Tim's App[33328:70b] Fix applied for database locations?: YES
+2014-04-19 16:10:22.972 Tim's App[33328:70b] Resetting plugins due to page load.
+2014-04-19 16:10:22.999 Tim's App[33328:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:10:23.000 Tim's App[33328:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:10:23.000 Tim's App[33328:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:10:23.002 Tim's App[33328:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:10:23.002 Tim's App[33328:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:10:23.003 Tim's App[33328:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:10:23.004 Tim's App[33328:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:10:23.004 Tim's App[33328:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:10:23.004 Tim's App[33328:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:10:23.080 Tim's App[33328:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/4106A4E9-E176-43A5-90C3-799C2D30658D/Tim's%20App.app/www/index.html
+2014-04-19 16:10:46.259 Tim's App[33830:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 16:10:46.312 Tim's App[33830:70b] Resetting plugins due to page load.
+2014-04-19 16:10:46.328 Tim's App[33830:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:10:46.328 Tim's App[33830:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:10:46.328 Tim's App[33830:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:10:46.330 Tim's App[33830:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:10:46.330 Tim's App[33830:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:10:46.330 Tim's App[33830:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:10:46.331 Tim's App[33830:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:10:46.331 Tim's App[33830:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:10:46.332 Tim's App[33830:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:10:46.356 Tim's App[33830:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/4106A4E9-E176-43A5-90C3-799C2D30658D/Tim's%20App.app/www/index.html
+2014-04-19 16:20:20.674 Tims App[35005:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 16:20:20.684 Tims App[35005:70b] Fix applied for database locations?: YES
+2014-04-19 16:20:20.840 Tims App[35005:70b] Resetting plugins due to page load.
+2014-04-19 16:20:20.863 Tims App[35005:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:20:20.863 Tims App[35005:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:20:20.864 Tims App[35005:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:20:20.865 Tims App[35005:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:20:20.866 Tims App[35005:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:20:20.866 Tims App[35005:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:20:20.867 Tims App[35005:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:20:20.868 Tims App[35005:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:20:20.868 Tims App[35005:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:20:20.899 Tims App[35005:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FAD8BB52-1756-4AB3-89F8-0E0CF537CDD3/Tims%20App.app/www/index.html
+2014-04-19 16:26:12.944 Tims App[35884:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 16:26:13.005 Tims App[35884:70b] Resetting plugins due to page load.
+2014-04-19 16:26:13.021 Tims App[35884:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:26:13.021 Tims App[35884:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:26:13.022 Tims App[35884:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:26:13.023 Tims App[35884:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:26:13.023 Tims App[35884:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:26:13.024 Tims App[35884:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:26:13.024 Tims App[35884:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:26:13.025 Tims App[35884:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:26:13.025 Tims App[35884:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:26:13.051 Tims App[35884:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FAD8BB52-1756-4AB3-89F8-0E0CF537CDD3/Tims%20App.app/www/index.html
+2014-04-19 16:27:04.836 Tims App[36630:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 16:27:04.902 Tims App[36630:70b] Resetting plugins due to page load.
+2014-04-19 16:27:04.930 Tims App[36630:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:27:04.930 Tims App[36630:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:27:04.931 Tims App[36630:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:27:04.932 Tims App[36630:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:27:04.932 Tims App[36630:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:27:04.933 Tims App[36630:3f03] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.10.2.min.js'
+2014-04-19 16:27:04.934 Tims App[36630:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:27:04.934 Tims App[36630:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:27:04.934 Tims App[36630:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js'
+2014-04-19 16:27:04.963 Tims App[36630:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FAD8BB52-1756-4AB3-89F8-0E0CF537CDD3/Tims%20App.app/www/index.html
+2014-04-19 16:37:21.938 Tims App[39774:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 16:37:22.006 Tims App[39774:70b] Resetting plugins due to page load.
+2014-04-19 16:37:22.025 Tims App[39774:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:37:22.025 Tims App[39774:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:37:22.026 Tims App[39774:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:37:22.070 Tims App[39774:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FAD8BB52-1756-4AB3-89F8-0E0CF537CDD3/Tims%20App.app/www/index.html
+2014-04-19 16:44:39.383 Tims App[46066:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 16:44:39.456 Tims App[46066:70b] Resetting plugins due to page load.
+2014-04-19 16:44:39.473 Tims App[46066:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:44:39.474 Tims App[46066:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:44:39.474 Tims App[46066:3f03] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css'
+2014-04-19 16:44:39.599 Tims App[46066:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FAD8BB52-1756-4AB3-89F8-0E0CF537CDD3/Tims%20App.app/www/index.html
+2014-04-19 17:11:41.251 Tims App[50271:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 17:11:41.261 Tims App[50271:70b] Fix applied for database locations?: YES
+2014-04-19 17:11:41.321 Tims App[50271:70b] Resetting plugins due to page load.
+2014-04-19 17:11:41.524 Tims App[50271:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/24E0329B-E79E-4425-A0B8-8EE72B8BCE76/Tims%20App.app/www/index.html
+2014-04-19 17:33:02.870 Tims App[53701:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 17:33:02.950 Tims App[53701:70b] Resetting plugins due to page load.
+2014-04-19 17:33:03.081 Tims App[53701:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/24E0329B-E79E-4425-A0B8-8EE72B8BCE76/Tims%20App.app/www/index.html
+2014-04-19 18:17:58.426 Tims App[57360:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 18:17:58.512 Tims App[57360:70b] Resetting plugins due to page load.
+2014-04-19 18:17:58.712 Tims App[57360:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/24E0329B-E79E-4425-A0B8-8EE72B8BCE76/Tims%20App.app/www/index.html
+2014-04-19 18:21:47.612 TimsApp[60537:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-19 18:21:47.622 TimsApp[60537:70b] Fix applied for database locations?: YES
+2014-04-19 18:21:47.705 TimsApp[60537:70b] Resetting plugins due to page load.
+2014-04-19 18:21:47.885 TimsApp[60537:70b] Finished load of: file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/66C0E3A9-8F46-4EA6-8DA7-916126632B98/TimsApp.app/www/index.html
